@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Obsidian for macOS macro with Obsidian for macOS updated Macro: voice notes & multi-device sync. Featuring voice notes and multi-device sync, it's the best choice
 
 
 
